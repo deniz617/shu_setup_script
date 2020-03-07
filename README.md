@@ -10,3 +10,4 @@ This is useless, i've done ZERO reverse engineering on Linux so far i have no ex
 ### Note
 This script is meant to be used mainly by myself to make it easier to setup a new VM and PC..
 This is my first script and it can said that im new to linux.
+Also i wrote this while being on Kali, but it should work on almost all Debian based distros.
